@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
         <Header />
-        <h1>Pagina Home</h1>
+        <h1>Pagina Principal</h1>
     <div>
       <Carousel/>
     </div>
